@@ -18,7 +18,7 @@ Welcome to my GitHub!
 
 💡 Fun facts about me:
 - I love creating projects that **make life easier**, focusing on **productivity** and **smart automation**.
-- I'm always eager to learn and grow, especially in **emerging technologies** like AI and Web3.
+- I'm always eager to learn and grow, especially in **emerging technologies** like AI.
 
 📫 How to reach me:
 - (Coming soon — I'll update with my social links!)
