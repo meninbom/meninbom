@@ -9,7 +9,6 @@ Welcome to my GitHub!
 
 🔨 Some projects I'm working on:
 - **relSGD**: Full automation of reports in the SGD system using Selenium, Excel file handling, Pivot Table creation, and Chart generation 📈
-- **Student Assistant**: A personal assistant to help with college notes and daily study organization 📓
 
 🛠️ Technologies I work with:
 - **Python** (Selenium, Pandas, Tkinter, OpenPyXL, etc.)
