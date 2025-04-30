@@ -5,7 +5,6 @@ Welcome to my GitHub!
 🎯 I'm currently focused on:
 - Building **automation** projects using **Python** 🐍
 - Developing **smart assistants** for studying and productivity 📚🤖
-- Exploring **Web3**, **DeFi**, and **blockchain** technologies 🚀
 - Creating customized **AI agents** for practical applications
 
 🔨 Some projects I'm working on:
