@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<style>
+.r{fill:none;stroke:#5eead4;transform-origin:760px 110px}
+.a{animation:s 14s linear infinite}.b{animation:s 22s linear infinite reverse}
+@keyframes s{to{transform:rotate(360deg)}}
+.l{fill:#e6f2ef;font-size:20px;opacity:0;animation:f .01s forwards}
+.l1{animation-delay:.4s}.l2{animation-delay:1.4s}.l3{animation-delay:2.4s}.l4{animation-delay:3.4s}
+@keyframes f{to{opacity:1}}
+.c{fill:#5eead4;animation:k 1s steps(1) infinite}@keyframes k{50%{opacity:0}}
+</style>
+<rect width="900" height="220" rx="16" fill="#0b1214"/>
+<circle cx="24" cy="22" r="6" fill="#ff5f57"/><circle cx="44" cy="22" r="6" fill="#febc2e"/><circle cx="64" cy="22" r="6" fill="#28c840"/>
+<text x="40" y="70" class="l l1"><tspan fill="#5eead4">~/kaua</tspan> $ whoami</text>
+<text x="40" y="104" class="l l2" font-size="30" font-weight="700">Kauã Melo</text>
+<text x="40" y="138" class="l l3"><tspan fill="#7c9a95">// Customer Success · Dados · IA · Economia</tspan></text>
+<text x="40" y="172" class="l l4"><tspan fill="#5eead4">→</tspan> fundador do mwllo.dev</text>
+<rect x="286" y="157" width="11" height="20" class="c"/>
+<circle class="r a" cx="760" cy="110" r="70" stroke-width="2" stroke-dasharray="120 320"/>
+<circle class="r b" cx="760" cy="110" r="50" stroke-width="3" stroke-dasharray="60 254" opacity=".7"/>
+<circle class="r a" cx="760" cy="110" r="88" stroke-width="1" stroke-dasharray="4 10" opacity=".5"/>
+<circle cx="760" cy="110" r="6" fill="#5eead4"/>
+</svg>
