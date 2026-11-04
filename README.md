@@ -48,6 +48,16 @@ const kaua = {
 | ✍️ **[kaua-melo.com](https://kaua-melo.com)** | Meu canto pessoal: economia, tecnologia, IA e CS |
 | 📁 **[portfolio.kaua-melo.com](https://portfolio.kaua-melo.com)** | Portfólio profissional |
 
+### 🧩 Apps que fiz para uso próprio
+
+Ferramentas que comecei para resolver coisas do meu dia a dia. O código está aberto.
+
+| App | O que é |
+|---|---|
+| 📓 **[Caderno](https://github.com/meninbom/caderno-desktop)** | App de anotações para Windows com tarefas, calendário, clipper e transcrição de áudio local |
+| 🎼 **[Orquestra](https://github.com/meninbom/orquestra)** | Quadro branco para desenhar e apresentar diagramas animados, no navegador ou no Windows |
+| 📸 **[Capturo](https://github.com/meninbom/capturo)** | Ferramenta de print para Windows no estilo Lightshot, num `.exe` de 80 KB |
+
 ### 📫 Bora conversar
 
 [![Site](https://img.shields.io/badge/kaua--melo.com-0b1214?style=for-the-badge&logo=googlechrome&logoColor=5eead4)](https://kaua-melo.com)
